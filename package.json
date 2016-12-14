@@ -1,0 +1,22 @@
+{
+  "name": "gas-base",
+  "version": "0.1.0",
+  "description": "google apps script base project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pochi-sato/gas-base.git"
+  },
+  "author": "Pochi Sato",
+  "license": "Apache License, Version 2.0",
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-preset-es2015": "^6.18.0",
+    "chokidar": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
